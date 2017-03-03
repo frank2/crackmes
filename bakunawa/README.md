@@ -14,8 +14,11 @@ Bakunawa is the Phillipine dragon known for causing eclipses. Taken by the beaut
 ## Credits
 
 **Artwork**: *The Dragon Brothers*, by kisekii-i -- http://kisekii-i.deviantart.com/art/The-Dragon-Brothers-609637244
+
 **UI design**: @lavendo
+
 **Algorithm**: @frank2
+
 **Music**:
    * null1024 - Assault Dragon
    * Algar - En Lada i Rymden
