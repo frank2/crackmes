@@ -13,7 +13,7 @@ Bakunawa is the Phillipine dragon known for causing eclipses. Taken by the beaut
 
 ## Winner's Circle
 
-* ![bagolymadar](https://crackmes.one/user/bagolymadar) of ![crackmes.one](https://crackmes.one)
+* [bagolymadar](https://crackmes.one/user/bagolymadar) of [crackmes.one](https://crackmes.one)
 
 ## Credits
 
