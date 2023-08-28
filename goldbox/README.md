@@ -12,9 +12,14 @@ I have created this goldbox to intercept your calls. I'm going to make long-dist
 * No encryption
 * Well-known algorithms
 
+## Solution choices
+
+* Find a working key (easy)
+* Write a keygen (hard)
+
 ## Winner's Circle
 
-No winners yet!
+* [Claire Levin](https://clairelevin.github.io/) (easy)
 
 ## Credits
 
