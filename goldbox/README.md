@@ -19,7 +19,7 @@ I have created this goldbox to intercept your calls. I'm going to make long-dist
 
 ## Winner's Circle
 
-* [Claire Levin](https://clairelevin.github.io/) (easy)
+* [Claire Levin](https://clairelevin.github.io/) (easy, hard)
 
 ## Credits
 
